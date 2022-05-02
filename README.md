@@ -13,6 +13,9 @@
 ## Contents
 
 ## Projects
+[Exploratory Data Analysis-Heart Disease](https://github.com/ReemaRazif/edubridge-data-analytics/tree/main/Projects/Exploratory%20Data%20Analysis-Heart%20Disease)
+
+[IPL Analysis](https://github.com/ReemaRazif/edubridge-data-analytics/tree/main/Projects/IPL%20Analysis)
 
 ## Connect with me on these platforms:
 
