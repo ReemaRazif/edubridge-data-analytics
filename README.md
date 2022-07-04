@@ -17,6 +17,10 @@
 
 [IPL Analysis](https://github.com/ReemaRazif/edubridge-data-analytics/tree/main/Projects/IPL%20Analysis)
 
+[Acoustic Fire Extinguisher analysis](https://github.com/ReemaRazif/edubridge-data-analytics/blob/main/Projects/Acoustic%20Fire%20Extinguisher%20Analysis/Acoustic%20Dataset.ipynb)
+
+[Covid Analysis](https://github.com/ReemaRazif/edubridge-data-analytics/tree/main/Projects/Covid%20Analysis)
+
 ## Connect with me on these platforms:
 
 #### Linkedln : https://www.linkedin.com/in/reemaummar/
